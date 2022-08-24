@@ -1,8 +1,14 @@
 body {
-    background-color: lightblue;
+    background-image: url("./BG/BG.jpg");
+    background-color: #000000;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
   }
   
   h1 {
     color: navy;
-    margin-left: 20px;
+    margin-left: 1cm;
   }
